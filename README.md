@@ -1,4 +1,5 @@
 # Quick-Draw-Subset
+
 A subset of the famous Google "Quick Draw" dataset ( https://github.com/googlecreativelab/quickdraw-dataset )
 
 The original dataset is very noisy and big, this dataset was created for images similarity algorithms or for evaluation of these.
@@ -19,3 +20,6 @@ The original dataset is very noisy and big, this dataset was created for images 
 The answer is yes.
 
 This is only one example of noise removed in this subset.
+
+## Download
+https://www.kaggle.com/emiliuz/quick-draw-subset
